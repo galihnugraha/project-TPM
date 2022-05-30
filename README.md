@@ -1,6 +1,6 @@
 # galsphone
 
-Aplikasi perpustakaan menggunakan framework flutter
+Aplikasi KATALOG HANDPHONE menggunakan framework flutter
 
 ## Getting Started
 
